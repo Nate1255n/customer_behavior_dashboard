@@ -10,6 +10,7 @@ You are tasked with analyzing the company’s consumer behavior dataset to answe
 - <a href="https://github.com/Nate1255n/customer_behavior_dashboard/blob/main/customer_shopping_behavior.csv">Customer_Behavior_Dashboard</a>
 
 ## Preprocessing
-
+- <a
+href="https://github.com/Nate1255n/customer_behavior_dashboard/blob/main/Customer_Shopping_Data_Cleaning.ipynb">Data Preprocessing
 
 Data Analytics project illustrating customer behavior. Tools used: SQL, Python &amp; Power BI
