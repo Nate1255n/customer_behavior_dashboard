@@ -7,13 +7,13 @@ You are tasked with analyzing the company’s consumer behavior dataset to answe
 “How can the company leverage consumer shopping data to identify trends, improve customer engagement, and optimize marketing and product strategies?”
 
 ## Data used in the Project
-- <a href="https://github.com/Nate1255n/customer_behavior_dashboard/blob/main/customer_shopping_behavior.csv">Customer_Behavior_Dashboard</a>
+- <a href="https://github.com/Nate1255n/customer_behavior_dashboard/blob/main/customer_shopping_behavior.csv">Customer Behavior Dashboard
 
 ## Preprocessing
 - <a
 href="https://github.com/Nate1255n/customer_behavior_dashboard/blob/main/Customer_Shopping_Data_Cleaning.ipynb">Data Preprocessing
 
-## Questions & Answers about the Data
+## Customer behavior Sql queries 
 - <a
 href="https://github.com/Nate1255n/customer_behavior_dashboard/blob/main/customer_behavior_sql_questions&answers.sql">Question&Answers about Data
 
