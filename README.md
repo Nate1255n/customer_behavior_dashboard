@@ -13,8 +13,12 @@ You are tasked with analyzing the company’s consumer behavior dataset to answe
 - <a
 href="https://github.com/Nate1255n/customer_behavior_dashboard/blob/main/Customer_Shopping_Data_Cleaning.ipynb">Data Preprocessing
 
-## Customer behavior Sql queries 
+## Customer Behavior SQL Queries 
 - <a
 href="https://github.com/Nate1255n/customer_behavior_dashboard/blob/main/customer_behavior_sql_questions&answers.sql">Customer Behavior SQL
+
+## Customer Behavior Dashboard pdf
+- <a
+href="file:///C:/Users/Natna/AppData/Local/Temp/Power%20BI%20Desktop/print-job-1add8c9b-e084-45d8-bb2f-9cde2adf180a/Customer%20Behavior%20Dashboard.pdf"> Customer behavior dashboard
 
 Data Analytics project illustrating customer behavior. Tools used: SQL, Python &amp; Power BI
