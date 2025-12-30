@@ -17,7 +17,7 @@ href="https://github.com/Nate1255n/customer_behavior_dashboard/blob/main/Custome
 - <a
 href="https://github.com/Nate1255n/customer_behavior_dashboard/blob/main/customer_behavior_sql_questions&answers.sql">Customer Behavior SQL
 
-## Customer Behavior Dashboard pdf
-<img width="450" height="300" alt="Customer behavior dashboard" src="file:///C:/Users/Natna/AppData/Local/Temp/Power%20BI%20Desktop/print-job-1add8c9b-e084-45d8-bb2f-9cde2adf180a/Customer%20Behavior%20Dashboard.pdf" />
+## Customer Behavior Dashboard
+<img width="1479" height="829" alt="Screenshot 2025-12-29 183917" src="https://github.com/user-attachments/assets/cafddda2-791b-480a-8bc8-d9e2f00de55e" />
 
 Data Analytics project illustrating customer behavior. Tools used: SQL, Python &amp; Power BI
