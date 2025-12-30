@@ -20,4 +20,8 @@ href="https://github.com/Nate1255n/customer_behavior_dashboard/blob/main/Custome
 href="https://github.com/Nate1255n/customer_behavior_dashboard/blob/main/customer_behavior_sql_questions&answers.sql">Customer Behavior SQL
 
 ## Customer Behavior Dashboard
+- Create Calculated Fields:
+  - Avg Purchase Amount
+  - Avg Review Rating
+  - Total Number of Customers
 <img width="1479" height="829" alt="Screenshot 2025-12-29 183917" src="https://github.com/user-attachments/assets/cafddda2-791b-480a-8bc8-d9e2f00de55e" />
