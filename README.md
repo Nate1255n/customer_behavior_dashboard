@@ -19,6 +19,6 @@ href="https://github.com/Nate1255n/customer_behavior_dashboard/blob/main/custome
 
 ## Customer Behavior Dashboard pdf
 - <a
-href="file:///C:/Users/Natna/AppData/Local/Temp/Power%20BI%20Desktop/print-job-1add8c9b-e084-45d8-bb2f-9cde2adf180a/Customer%20Behavior%20Dashboard.pdf"> Customer behavior dashboard
+href="file:///C:/Users/Natna/AppData/Local/Temp/Power%20BI%20Desktop/print-job-1add8c9b-e084-45d8-bb2f-9cde2adf180a/Customer%20Behavior%20Dashboard.pdf">Customer behavior dashboard
 
 Data Analytics project illustrating customer behavior. Tools used: SQL, Python &amp; Power BI
